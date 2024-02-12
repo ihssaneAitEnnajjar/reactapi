@@ -1,0 +1,24 @@
+.fab {
+    padding: 15px;
+    font-size: 23px
+}
+
+.fa-facebook {
+    color: #0303d9bf
+}
+
+.fa-twitter {
+    color: #0078fade
+}
+
+.fa-linkedin {
+    color: #18b1c0
+}
+.btn {
+    display: block;
+    width: 100%;
+    border-radius: 30px;
+    border: none;
+    background: linear-gradient(to right, rgba(249, 0, 104, 1) 0%, rgba(247, 117, 24, 1) 100%);
+    background: -webkit-linear-gradient(left, rgba(249, 0, 104, 1) 0%, rgba(247, 117, 24, 1) 100%)
+}
